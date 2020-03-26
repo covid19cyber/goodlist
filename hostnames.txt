@@ -292,3 +292,6 @@ servicecovid.tpasaigon.vn
 www.covideo.com
 3d.nicovideo.jp
 covid-19.iglocska.eu
+covid19dashboard.live
+vancovid.ca
+vancovid.com
