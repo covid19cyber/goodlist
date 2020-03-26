@@ -291,3 +291,4 @@ covid19vm01.azurewebsites.net
 servicecovid.tpasaigon.vn
 www.covideo.com
 3d.nicovideo.jp
+covid-19.iglocska.eu
