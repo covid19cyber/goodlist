@@ -1,2 +1,2 @@
 # goodlist
-List of non-malicious COVID themed domains
+List of likely non-malicious COVID themed domains
