@@ -147,3 +147,4 @@ veille-coronavirus.fr
 worldcoronavirus.org
 worldometers.info
 wuflu.live
+www.info-coronavirus.be
