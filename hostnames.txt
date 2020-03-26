@@ -24,7 +24,6 @@ enpremiereligne.fr
 fiipregatit.ro
 hackthecrisis.lt
 monitorec.app
-readme.md
 stirioficiale.ro
 stopcov.ge
 wirvsvirushackathon.org
