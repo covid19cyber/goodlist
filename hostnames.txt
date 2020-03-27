@@ -296,3 +296,17 @@ covid-19.iglocska.eu
 covid19dashboard.live
 vancovid.ca
 vancovid.com
+aanvraagcoronapremie.be
+koronavirus.hr
+info-coronavirus.be
+infocoronavirus.be
+covid.is
+dnastack.com
+coronavirus-19-api.herokuapp.com
+covid19brampton.ca
+projectcovid.org
+pccovidupdate.com
+jhcovid.com
+covid19law.ca
+studi-soforthilfe-corona.org
+coronavirushelper.net
