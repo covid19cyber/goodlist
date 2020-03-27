@@ -83,6 +83,7 @@ coronavirus.zone
 coronavirusinfections.org
 coronaviruslive.it
 covid-api.com
+covid-misp.ncsc.gov.ie
 covid19esp.herokuapp.com
 covidabruzzo.it
 covidstatus.com
